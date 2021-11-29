@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+    .main-image{
+        display: none;
+    }
+    .main-content{
+        display:100%;
+        margin: 0 auto;
+        width:600px;
+    }
+
+} 
